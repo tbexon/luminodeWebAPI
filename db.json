@@ -5,7 +5,33 @@
       "title": "hello"
     }
   ],
-  "processblock": {
-    "name": "typicode"
+  "processblock": [
+  {
+    "timeout": 0,
+    "xfade_ctrl": -1,
+    "switch_ctrl_patch": [
+      -1
+    ],
+    "xfade_ctrl_patch": [
+      -1
+    ],
+    "masterlimit_ctrl": -1,
+    "switch_ctrl": -1,
+    "id": 0,
+    "backup_auto_recover": true,
+    "backup_ctrl": -1,
+    "name": "string",
+    "mode": "NONE",
+    "outputs": {},
+    "masterlimit": "NONE",
+    "masterlimit_ctrl_patch": [
+      -1
+    ],
+    "patches": {},
+    "backup_ctrl_patch": [
+      -1
+    ],
+    "inputs": {}
   }
+]
 }
