@@ -73,7 +73,32 @@
       "rdm": true,
       "port_number": 0,
       "follow": true
+    },
+    {
+      "adaptive_discovery": true,
+      "io_class": "sacn",
+      "rdm_universe": 0,
+      "interweaving": true,
+      "id": 1,
+      "name": "string",
+      "io_type": "input",
+      "rdm": true,
+      "port_number": 0,
+      "follow": true
+    },
+    {
+      "adaptive_discovery": true,
+      "io_class": "artnet",
+      "rdm_universe": 0,
+      "interweaving": true,
+      "id": 2,
+      "name": "string",
+      "io_type": "input",
+      "rdm": true,
+      "port_number": 0,
+      "follow": true
     }
+
   ]
 
 }
